@@ -9,3 +9,4 @@ print('\n python 路径为', sys.path)
 
 from sys import argv, path
 print('path: ', path)
+
