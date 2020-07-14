@@ -13,3 +13,4 @@ else :
     print('false')
 
 print('Game Over!')
+print('Ohh my god!')
